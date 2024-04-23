@@ -19,9 +19,25 @@ body {
 
 
 /* ##### HEADER ##### */
+header {
+    background-color: gold;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 3px 3px black;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
 h1 {
     font-family: "Sedgwick Ave Display", sans-serif;
-    color: black;
+    color: blue;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
 /* ##### MAIN CONTENT ##### */
