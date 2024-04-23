@@ -40,6 +40,20 @@ h1 {
     letter-spacing: 2px;
 }
 
+#menu {
+    font-size: 120%;
+    letter-spacing: 3px;
+    list-style-type: none;
+}
+
+#menu li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid black;
+}
+
 /* ##### MAIN CONTENT ##### */
 main {
     flex: 1 0 auto;
