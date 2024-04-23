@@ -1,0 +1,24 @@
+/* override default styles */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* GENERAL STYLES */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: black;
+}
+
+
+/* ##### HEADER ##### */
+
+/* ##### MAIN CONTENT ##### */
+main {
+    flex: 1 0 auto;
+}
+
+/* ##### FOOTER ##### */
