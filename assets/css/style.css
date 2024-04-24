@@ -70,6 +70,7 @@ nav {
     font-size: 2.5rem;
     color: black;
 }
+
 .logo {
     width: 50px;
     height: 50px;
@@ -79,10 +80,24 @@ nav {
 
 
 /* ##### MAIN CONTENT ##### */
+
 main {
     flex: 1 0 auto;
     margin-top: 58px;
+    width: 100%;
+   
 }
+
+.nations {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    height: 200px;
+    width: 300px;
+}
+
+
 
 /* ##### FOOTER ##### */
 
@@ -125,7 +140,12 @@ main {
     
     /* ##### MAIN CONTENT ##### */
     main {
-        margin-top: 140px;
+        margin-top: 102px;
+    }
+
+    .nations {
+        height: 400px;
+        width: 550px;
     }
 }
 
@@ -137,4 +157,3 @@ main {
     }
 
 
-}
