@@ -40,7 +40,7 @@ h1 {
     font-family: "Sedgwick Ave Display", sans-serif;
     color: blue;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 }
 
 #menu {
@@ -86,6 +86,38 @@ nav {
 /* ##### MAIN CONTENT ##### */
 main {
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 /* ##### FOOTER ##### */
+
+/* MEDIA QUERY: TABLET AND LARGER SCREENS (768PX AND ABOVE) */
+@media screen and (min-width: 768px) {
+    
+    /* ##### HEADER ##### */
+    
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+    
+    #menu {
+        display: flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+    
+    .nav-toggle-label {
+        display: none;
+    }
+    #logo {
+        font-size: 300%;
+        line-height: 80px;
+    }
+    
+}
