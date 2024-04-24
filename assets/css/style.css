@@ -120,4 +120,15 @@ main {
         line-height: 80px;
     }
     
+    /* ##### MAIN CONTENT ##### */
+    main {
+        margin-top: 82px;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid black;
+    }
+
 }
