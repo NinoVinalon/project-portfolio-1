@@ -35,7 +35,7 @@ header {
 #menu {
     font-size: 120%;
     letter-spacing: 3px;
-    list-style-type: none;
+    list-style-type:none
 }
 
 #menu li {
@@ -78,6 +78,9 @@ nav {
     top: 2px;
 }
 
+header a {
+    text-decoration: none;
+}
 
 /* ##### MAIN CONTENT ##### */
 
@@ -119,14 +122,17 @@ main {
         padding-right: 1rem;
         justify-content: end;
         top: 40px;
+        
     }
     
     #menu {
         display: flex;
+        
     }
 
     #menu > li {
         padding-left: 1rem;
+        
     }
     
     .nav-toggle-label {
