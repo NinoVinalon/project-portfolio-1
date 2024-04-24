@@ -38,7 +38,7 @@ header a {
 
 h1 {
     font-family: "Sedgwick Ave Display", sans-serif;
-    color: blue;
+    color: black;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
@@ -79,7 +79,7 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
-    color: blue
+    color: black
 }
 
 
@@ -116,7 +116,7 @@ main {
         display: none;
     }
     #logo {
-        font-size: 300%;
+        font-size: 200%;
         line-height: 80px;
     }
     
@@ -130,5 +130,9 @@ main {
     #menu a:hover {
         border-bottom: 1px solid black;
     }
+    #logo {
+        font-size: 300%
+    }
+
 
 }
