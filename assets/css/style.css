@@ -236,6 +236,10 @@ footer {
     #homepagesec p {
         padding: 0 400px;
     }
+    #ajecks {
+        column-count: 2;
+        margin: 0;
+    }
 
     }
 
