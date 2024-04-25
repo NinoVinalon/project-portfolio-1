@@ -127,6 +127,12 @@ main {
     margin-bottom: 80px;
 }
 
+#homepagesec p {
+    margin-top: 20px;
+    padding: 0 40px;
+    text-align: justify;
+}
+
 /* ##### CHAMPIONS.HTML PAGE ##### */
 
 #teamchamps {
