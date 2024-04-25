@@ -160,9 +160,12 @@ footer {
     padding: 20px 0;
     justify-content: space-evenly;
     list-style-type: none;
-
 }
 
+#socialmedia i {
+    font-size: 200%;
+    color: blue;
+}
 
 
 /* MEDIA QUERY: TABLET AND LARGER SCREENS (768PX AND ABOVE) */
