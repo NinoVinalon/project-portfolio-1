@@ -150,11 +150,26 @@ main {
 
 
 /* ##### FOOTER ##### */
+footer {
+    background-color: gold;
+}
+
+#socialmedia {
+    display: flex;
+    text-align: center;
+    padding: 20px 0;
+    justify-content: space-evenly;
+    list-style-type: none;
+
+}
+
+
 
 /* MEDIA QUERY: TABLET AND LARGER SCREENS (768PX AND ABOVE) */
 @media screen and (min-width: 768px) {
     
     /* ##### HEADER ##### */
+    
     header {
         align-items: baseline;
         padding-top: 12px;
