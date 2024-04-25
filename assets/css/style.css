@@ -103,12 +103,13 @@ main {
 }
 
 /* ##### TEAMS.HTML ##### */
-.irishflag {
+.flag {
     display: block;
     margin-left: auto;
     margin-right: auto;
     height: 40px;
     width: 60px;
+    margin-bottom: 20px;
 }
 
 h3 {
@@ -117,6 +118,9 @@ h3 {
 }
 ul {
     text-align: center;
+}
+div {
+    margin-bottom: 80px;
 }
 
 
