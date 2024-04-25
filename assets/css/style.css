@@ -133,7 +133,7 @@ main {
     color: blue;
 }
 #teamchamps div {
-    margin-bottom: 100px;
+    margin-top: 70px;
 }
 
 .champs {
@@ -142,7 +142,6 @@ main {
     margin-right: auto;
     max-height: 250px;
     max-width: 350px;
-    margin-bottom: 20px;
 }
 
 
