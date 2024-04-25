@@ -136,13 +136,12 @@ main {
 #teamchamps {
     text-align: center;
     font-family: lugrasimo, sans-serif;
-    padding-bottom: 90px;
 }
 #teamchamps h2, h3{
     color: blue;
 }
 #teamchamps div {
-    margin-top: 70px;
+    padding-bottom: 70px;
 }
 
 .champs {
@@ -239,6 +238,7 @@ footer {
     #ajecks {
         column-count: 2;
         margin: 0;
+        list-style: none;
     }
 
     }
