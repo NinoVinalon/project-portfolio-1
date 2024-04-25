@@ -101,6 +101,9 @@ main {
     height: 200px;
     width: 300px;
 }
+#homepagesec div{
+    padding-bottom: 160px;
+}
 
 /* ##### TEAMS.HTML PAGE ##### */
 .flag {
