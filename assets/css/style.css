@@ -102,7 +102,7 @@ main {
     width: 300px;
 }
 
-/* ##### TEAMS.HTML ##### */
+/* ##### TEAMS.HTML PAGE ##### */
 .flag {
     display: block;
     margin-left: auto;
@@ -112,16 +112,39 @@ main {
     margin-bottom: 20px;
 }
 
-h3 {
+#ajecks h3 {
     text-align: center;
     font-family: lugrasimo, sans-serif;
 }
-ul {
+#ajecks ul {
     text-align: center;
 }
-div {
+#ajecks div {
     margin-bottom: 80px;
 }
+
+/* ##### CHAMPIONS.HTML PAGE ##### */
+
+#teamchamps {
+    text-align: center;
+    font-family: lugrasimo, sans-serif;
+}
+#teamchamps h2, h3{
+    color: blue;
+}
+#teamchamps div {
+    margin-bottom: 100px;
+}
+
+.champs {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 250px;
+    max-width: 350px;
+    margin-bottom: 20px;
+}
+
 
 
 /* ##### FOOTER ##### */
@@ -181,7 +204,8 @@ div {
     #menu a:hover {
         border-bottom: 1px solid black;
     }
-   
+
+
     }
 
 
