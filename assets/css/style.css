@@ -127,7 +127,7 @@ main {
 
 #homepagesec p {
     margin-top: 20px;
-    padding: 0 60px;
+    padding: 0 10px;
     text-align: justify;
 }
 .bracket {
@@ -246,12 +246,12 @@ footer {
         border-bottom: 1px solid black;
     }
     #homepagesec p {
-        padding: 0 220px;
+        padding: 0 10px;
     }
 
     /* ##### TEAM PAGE ##### */
     main {
-        padding: 50px 250px;
+        padding: 50px 195px;
     }
 
     #ajecks {
