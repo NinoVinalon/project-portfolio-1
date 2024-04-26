@@ -127,7 +127,7 @@ main {
 
 #homepagesec p {
     margin-top: 20px;
-    padding: 0 29px;
+    padding: 0 60px;
     text-align: justify;
 }
 
@@ -233,12 +233,12 @@ footer {
         border-bottom: 1px solid black;
     }
     #homepagesec p {
-        padding: 0 400px;
+        padding: 0 220px;
     }
 
     /* ##### TEAM PAGE ##### */
     main {
-        padding: 50 20px;
+        padding: 50px 250px;
     }
 
     #ajecks {
@@ -248,6 +248,11 @@ footer {
     }
     #ajecks li {
         list-style-type: none;
+    }
+
+    /* ##### CHAMPIONS PAGE ##### */
+    #teamchamps {
+        display: ruby;
     }
     
     }
