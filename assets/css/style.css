@@ -143,7 +143,6 @@ main {
 .firstnews {
     background: white;
     margin: 30px 80px;
-
 }
 
 /* ##### CHAMPIONS.HTML PAGE ##### */
@@ -269,6 +268,16 @@ footer {
     #teamchamps {
         display: ruby;
     }
+    .secondnews {
+        background: white;
+        margin: 0 215px;
+    }
+    
+    .firstnews {
+        background: white;
+        margin: 30px 215px;
+    }
+
     
     }
 
