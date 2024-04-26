@@ -17,7 +17,6 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-
 /* ##### HEADER ##### */
 header {
     background-color: gold;
@@ -97,8 +96,8 @@ main {
     margin-left: auto;
     margin-right: auto;
     margin-top: 30px;
-    height: 200px;
-    width: 300px;
+    height: 70%;
+    width: 85%;
     padding-top: 30px;
 }
 #homepagesec div{
@@ -166,8 +165,6 @@ main {
     max-width: 350px;
 }
 
-
-
 /* ##### FOOTER ##### */
 footer {
     background-color: gold;
@@ -185,7 +182,6 @@ footer {
     font-size: 200%;
     color: blue;
 }
-
 
 /* MEDIA QUERY: TABLET AND LARGER SCREENS (768PX AND ABOVE) */
 @media screen and (min-width: 768px) {
@@ -234,8 +230,8 @@ footer {
     }
 
     .nations {
-        height: 400px;
-        width: 550px;
+        height: 70%;
+        width: 85%;
     }
     #homepagesec p {
         padding: 0 108px;
@@ -246,14 +242,35 @@ footer {
     #menu a:hover {
         border-bottom: 1px solid black;
     }
+
+     /* ##### MAIN CONTENT ##### */
+     main {
+        margin-top: 102px;
+    }
+
+    .nations {
+        height: 70%;
+        width: 85%;
+    }
+    #homepagesec p {
+        padding: 0 108px;
+    }
+    
     #homepagesec p {
         padding: 0 10px;
     }
+    .secondnews {
+        background: white;
+        margin: 0 215px;
+    }
+    
+    .firstnews {
+        background: white;
+        margin: 30px 215px;
+    }
+}
 
     /* ##### TEAM PAGE ##### */
-    main {
-        padding: 50px 195px;
-    }
 
     #ajecks {
         display: ruby;
@@ -268,16 +285,6 @@ footer {
     #teamchamps {
         display: ruby;
     }
-    .secondnews {
-        background: white;
-        margin: 0 215px;
-    }
-    
-    .firstnews {
-        background: white;
-        margin: 30px 215px;
-    }
-
     
     }
 
