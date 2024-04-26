@@ -101,7 +101,7 @@ main {
     width: 300px;
 }
 #homepagesec div{
-    padding-bottom: 160px;
+    padding-bottom: 40px;
 }
 
 /* ##### TEAMS.HTML PAGE ##### */
@@ -129,6 +129,19 @@ main {
     margin-top: 20px;
     padding: 0 60px;
     text-align: justify;
+}
+.bracket {
+    text-align: center;
+    color: black;
+}
+.secondnews {
+    background: white;
+    margin: 0 30px;
+}
+
+.firstnews {
+    background: white;
+    margin: 0 30px;
 }
 
 /* ##### CHAMPIONS.HTML PAGE ##### */
