@@ -99,6 +99,7 @@ main {
     margin-top: 30px;
     height: 200px;
     width: 300px;
+    padding-top: 30px;
 }
 #homepagesec div{
     padding-bottom: 40px;
@@ -136,12 +137,13 @@ main {
 }
 .secondnews {
     background: white;
-    margin: 0 30px;
+    margin: 0 80px;
 }
 
 .firstnews {
     background: white;
-    margin: 0 30px;
+    margin: 30px 80px;
+
 }
 
 /* ##### CHAMPIONS.HTML PAGE ##### */
