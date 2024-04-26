@@ -256,17 +256,14 @@ footer {
         padding: 0 108px;
     }
     
-    #homepagesec p {
-        padding: 0 10px;
-    }
     .secondnews {
         background: white;
-        margin: 0 215px;
+        margin: 0 300px;
     }
     
     .firstnews {
         background: white;
-        margin: 30px 215px;
+        margin: 30px 300px;
     }
 }
 
