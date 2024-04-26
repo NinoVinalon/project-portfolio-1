@@ -235,12 +235,21 @@ footer {
     #homepagesec p {
         padding: 0 400px;
     }
-    #ajecks {
-        column-count: 2;
-        margin: 0;
-        list-style: none;
+
+    /* ##### TEAM PAGE ##### */
+    main {
+        padding: 50 20px;
     }
 
+    #ajecks {
+        display: ruby;
+        padding-top: 50px;
+
+    }
+    #ajecks li {
+        list-style-type: none;
+    }
+    
     }
 
 
