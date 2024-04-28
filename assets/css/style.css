@@ -166,6 +166,31 @@ main {
     max-width: 350px;
 }
 
+/* ###### Contact Page ##### */
+#send {
+    background-position: center;
+    position: relative;
+    padding: 50px 10% 0 10%;
+}
+#send p {
+    padding: 20px 10% 0 10%;
+}
+
+.send-header{
+    background-color: black;
+    color: white;
+    font-size: 150%;
+    width:  100%;
+    
+}
+.send-main {
+    background-color: rgba(17, 17, 16, 0.7);   
+    color: white; 
+}
+.send-main p {
+    text-align: center;
+}
+
 /* ##### FOOTER ##### */
 footer {
     background-color: gold;
@@ -233,6 +258,7 @@ footer {
     #homepagesec p {
         padding: 0 108px;
     }
+
 }
 
 @media screen and (min-width: 992px) {
@@ -258,7 +284,6 @@ footer {
         background: white;
         margin: 30px 300px;
     }
-}
 
     /* ##### TEAM PAGE ##### */
 
@@ -275,6 +300,9 @@ footer {
     #teamchamps {
         display: ruby;
     }
+#send {
+    padding: 50px 35% 0 35%;
+}
+}
     
-
-
+   
