@@ -125,6 +125,9 @@ main {
     margin-bottom: 80px;
     padding: 0 35px;
 }
+#ajecks li {
+    list-style-type: none;
+}
 
 #homepagesec p {
     margin-top: 20px;
@@ -203,6 +206,15 @@ main {
 }
 #message {
     height: 200px;
+}
+
+.submit-button {
+    margin: 20px 5% 5% 5%;
+    border-radius: 5px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: gold;
+    color: black;
 }
 
 /* ##### FOOTER ##### */
