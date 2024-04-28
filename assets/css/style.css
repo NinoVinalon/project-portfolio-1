@@ -191,6 +191,20 @@ main {
     text-align: center;
 }
 
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 90%;
+    height: 25px;
+    margin: 5px 5% 20px 5%;
+    border: 3px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 3px;
+}
+#message {
+    height: 200px;
+}
+
 /* ##### FOOTER ##### */
 footer {
     background-color: gold;
