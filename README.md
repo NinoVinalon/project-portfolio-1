@@ -195,6 +195,15 @@ I have deployed my website on Github pages.
 -Google Chrome
 -Safari
 
+### Accessibility
+
+In order to simplify site navigation, I have employed aria-labels, alt tags, and semantic elements. I added a background photo showing the basketball court flooring, which makes it more beautiful. Text colors are typically black and white. The choice buttons are blue in comparison to the gold background of the header and footer of the website to show a clear difference between the two areas.
+
+### Bugs
+
+The only bug that I encountered in this program is when the images are not responsive. So what I did was change the height and width values from pixels to percentages.
+
+### Credits
 
 
 
