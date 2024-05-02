@@ -30,21 +30,25 @@ This website is intended for Filipinos who have a love for basketball.
 
 HTML was used to create the wireframes for this website. The website is made up of four pages: the Home page, Teams page, Champions page, and Send us page.
 
-##### 1. HOMEPAGE<br>
-
+##### 1. HOMEPAGE
+<br>
 ![Homepage](assets/readimages/homepageone.png)
 
-##### 2. TEAMS PAGE<br>
-
+##### 2. TEAMS PAGE
+<br>
 ![Team Page](assets/readimages/teampageone.png)
 
-##### 3. CHAMPIONS PAGE<br>
-
+##### 3. CHAMPIONS PAGE
+<br>
 ![Champion Page](assets/readimages/championone.png)
 
-##### 4. SEND US PAGE<br>
-
+##### 4. SEND US PAGE
+<br>
 ![Send Us Page](assets/readimages/sendone.png)
+
+### Color Scheme
+
+The color scheme for this website is simple. I have chosen gold for the background of the header and footer with black and  white text throughout, with blue buttons.
 
 
 
