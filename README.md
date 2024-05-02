@@ -65,7 +65,7 @@ There are also clickable buttons that direct users to the league's social media 
 
 At the top right corner of the homepage, there is a dropdown button on which you can select which page to go to.
 
-##### 1. Homepage on desktop<br>
+##### 1. Homepage on desktop
 ![Homepage on desktop](assets/readimages/homapagepc.png)
 
 ##### 2. Homepage on mobile
@@ -75,8 +75,32 @@ At the top right corner of the homepage, there is a dropdown button on which you
 
 The template design for the second page was identical to that of the homepage. This page displays all the teams and players who will play in the league.
 
-##### 1 Teams Page on desktop<br>
-!
+##### 1. Teams page on desktop
+![Teams page on desktop](assets/readimages/teamspc.png)
+
+##### 2. Teams page on mobile
+![Teams page on mobile](assets/readimages/teamscp.jpg)
+
+### Champions Page
+
+Following the same template design as the homepage, this features all teams who have won championship games for the last 5 seasons.
+
+###### 1. Champions page on desktop
+![Champions page on desktop](assets/readimages/championspagepc.png)
+
+##### 2. Champions page on mobile
+![Champions page on mobile](assets/readimages/championscp.jpg)
+
+### Send Us Page
+
+##### 1. Send us page on desktop
+![Send us page on desktop](assets/readimages/senduppc.png)
+
+##### 2. Send us page on mobile
+![Send us page on mobile](assets/readimages/senduscp.jpg)
+
+
+
 
 
 
