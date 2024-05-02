@@ -99,6 +99,33 @@ Following the same template design as the homepage, this features all teams who 
 ##### 2. Send us page on mobile
 ![Send us page on mobile](assets/readimages/senduscp.jpg)
 
+### Future Development
+
+In future developments, I would like to add more details to the games, such as videos and game replays. I would also like to improve user interactions by adding an announcement/news update on the page.
+
+**Github** - is used for version control, site storage, and deployment of my project.
+
+**Gitpod** - were used for deploying my project.
+
+**Python** - is used to open a local HTTP server when coding in Gitpod to preview my site.
+
+**HTML 5** - is utilized to construct the basic components of my website.
+
+**CSS** - is used to style all elements on my website.
+
+**DevTools** - is employed to test my website's responsiveness and detect any bugs.
+
+**Google Fonts** - is used to import the font Lugrasimo used on my site.\
+
+**Font Awesome** - is used to import icons to all web pages.
+
+**Favicon.io** - is used to create a favicon for my website.
+
+**W3C Markup** - Validation Service is used to validate HTML code.
+
+**W3C CSS Validation Service** - is used to validate CSS code.\
+
+**Lighthouse** - used to generate Lighthouse reports.
 
 
 
