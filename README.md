@@ -59,12 +59,24 @@ Meta tags with descriptions and keywords have been added to each page's head in 
 
 ### Homepage
 
+The homepage for the website displays a simple design featuring the basketball league, Kings of Ireland, followed by the teams involved and the overall mechanics of the game. 
+
+There are also clickable buttons that direct users to the league's social media pages placed at the bottom of the page.
+
+At the top right corner of the homepage, there is a dropdown button on which you can select which page to go to.
 
 ##### 1. Homepage on desktop<br>
 ![Homepage on desktop](assets/readimages/homapagepc.png)
 
 ##### 2. Homepage on mobile
 ![Homepage on mobile](assets/readimages/homecp.jpg)
+
+### Teams Page
+
+The template design for the second page was identical to that of the homepage. This page displays all the teams and players who will play in the league.
+
+##### 1 Teams Page on desktop<br>
+!
 
 
 
