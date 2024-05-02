@@ -204,9 +204,16 @@ main {
     border-radius: 2px;
     padding: 0 3px;
 }
-#message {
+textarea {
+    background: transparent;
+    color: #fafafa;
+    width: 90%;
     height: 200px;
-}
+    margin: 5px 5% 20px 5%;
+    border: 3px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 3px;
+}    
 
 .submit-button {
     margin: 20px 5% 5% 5%;
@@ -330,5 +337,3 @@ footer {
     padding: 50px 35% 0 35%;
 }
 }
-    
-   
