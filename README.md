@@ -30,9 +30,21 @@ This website is intended for Filipinos who have a love for basketball.
 
 HTML was used to create the wireframes for this website. The website is made up of four pages: the Home page, Teams page, Champions page, and Send us page.
 
-1.HOMEPAGE 
+##### 1. HOMEPAGE 
 <br>
 ![Homepage](assets/readimages/homepage1.png)
+
+##### 2. TEAMS PAGE
+<br>
+![Team Page](assets/readimages/teampage1.png)
+
+##### 3. CHAMPIONS PAGE
+<br>
+![Champion Page](assets/readimages/champion1.png)
+
+##### 4. SEND US PAGE
+<br>
+![Send Us Page](assets/readimages/Send1.png)
 
 
 
