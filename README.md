@@ -144,6 +144,56 @@ I have deployed my website on Github pages.
 
 ## Local Deployment
 
+#### How to Clone
+
+1. Log into your GitHub account.
+2. Go to the repository of this project: <https://github.com/NinoVinalon/project-portfolio-1>.
+3. Click on the code button, and copy your preferred clone link.
+4. In your code editor, open the terminal and change the current working directory to the location where you want the cloned directory to be stored.
+5. Type 'git clone' into the terminal, paste the link you copied in step 3 and press enter.
+
+#### How to Fork
+
+1. Sign up or log in to Github.
+2. Go to the repository of this project: <https://github.com/NinoVinalon/project-portfolio-1>.
+3. Click the Fork button in the top right corner.
+
+## Testing
+
+1. The WC3 Validator was used to check all pages of my website for HTML 5 code, and there were no errors found.<br>
+![HTML Validator](assets/readimages/htmlchecker.png)
+
+2. Jigsaw CSS Validator was used to validate the CSS code written for my website. No errors were found.
+![CSS Validator](assets/readimages/cssvalidator.png)
+
+3. Lighthouse testing - I used Google Chrome's Lighthouse Developer Tool to gain insight into the performance and accessibility metrics of my website.
+
+**Index Page**
+![Index Page](assets/readimages/lighthousedesktop.png)
+
+**Team Page**
+![Index Page](assets/readimages/lighthouseteamdesktop.png)
+
+**Champions Page**
+![Champions Page](assets/readimages/lighthousechampions.png)
+
+**Send Us Page**
+![Send Us Page](assets/readimages/lighthousesendus.png)
+
+### Device Testing
+
+**The website was tested on the following devices:**
+
+- Samsung Galaxy S23 Ultra
+-Iphone 13 Pro Max
+-Apple Ipod 10th Gen
+-Microsoft Surface
+-Acer Predator Triton 300
+
+**The website was tested on the following browsers:**
+
+-Google Chrome
+-Safari
 
 
 
