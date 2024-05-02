@@ -103,6 +103,8 @@ Following the same template design as the homepage, this features all teams who 
 
 In future developments, I would like to add more details to the games, such as videos and game replays. I would also like to improve user interactions by adding an announcement/news update on the page.
 
+### Technologies Used
+
 **Github** - is used for version control, site storage, and deployment of my project.
 
 **Gitpod** - were used for deploying my project.
