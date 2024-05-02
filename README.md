@@ -30,16 +30,16 @@ This website is intended for Filipinos who have a love for basketball.
 
 HTML was used to create the wireframes for this website. The website is made up of four pages: the Home page, Teams page, Champions page, and Send us page.
 
-##### 1. HOMEPAGE<br>
+**1. HOMEPAGE<br>**
 ![Homepage](assets/readimages/homepageone.png)
 
-##### 2. TEAMS PAGE<br>
+**2. TEAMS PAGE<br>**
 ![Team Page](assets/readimages/teampageone.png)
 
-##### 3. CHAMPIONS PAGE<br>
+**3. CHAMPIONS PAGE<br>**
 ![Champion Page](assets/readimages/championone.png)
 
-##### 4. SEND US PAGE<br>
+**4. SEND US PAGE<br>**
 ![Send Us Page](assets/readimages/sendone.png)
 
 ### Color Scheme
@@ -65,38 +65,38 @@ There are also clickable buttons that direct users to the league's social media 
 
 At the top right corner of the homepage, there is a dropdown button on which you can select which page to go to.
 
-##### 1. Homepage on desktop
+**1. Homepage on desktop**
 ![Homepage on desktop](assets/readimages/homapagepc.png)
 
-##### 2. Homepage on mobile
+**2. Homepage on mobile**
 ![Homepage on mobile](assets/readimages/homecp.jpg)
 
 ### Teams Page
 
 The template design for the second page was identical to that of the homepage. This page displays all the teams and players who will play in the league.
 
-##### 1. Teams page on desktop
+**1. Teams page on desktop**
 ![Teams page on desktop](assets/readimages/teamspc.png)
 
-##### 2. Teams page on mobile
+**2. Teams page on mobile**
 ![Teams page on mobile](assets/readimages/teamscp.jpg)
 
 ### Champions Page
 
 Following the same template design as the homepage, this features all teams who have won championship games for the last 5 seasons.
 
-###### 1. Champions page on desktop
+**1. Champions page on desktop**
 ![Champions page on desktop](assets/readimages/championspagepc.png)
 
-##### 2. Champions page on mobile
+**2. Champions page on mobile**
 ![Champions page on mobile](assets/readimages/championscp.jpg)
 
 ### Send Us Page
 
-##### 1. Send us page on desktop
+**1. Send us page on desktop**
 ![Send us page on desktop](assets/readimages/senduppc.png)
 
-##### 2. Send us page on mobile
+**2. Send us page on mobile**
 ![Send us page on mobile](assets/readimages/senduscp.jpg)
 
 ### Future Development
@@ -107,7 +107,7 @@ In future developments, I would like to add more details to the games, such as v
 
 **Github** - is used for version control, site storage, and deployment of my project.
 
-**Gitpod** - were used for deploying my project.
+**Gitpod** - is the one I used to write, edit, commit and push my code to Github.
 
 **Python** - is used to open a local HTTP server when coding in Gitpod to preview my site.
 
@@ -128,6 +128,25 @@ In future developments, I would like to add more details to the games, such as v
 **W3C CSS Validation Service** - is used to validate CSS code.\
 
 **Lighthouse** - used to generate Lighthouse reports.
+
+### Language Used
+
+HTML 5 and CSS
+
+### Libraries and programmes used
+
+Github was used for version control, site storage, and to deploy my project to Github pages.
+Gitpod is the IDE I used to write, edit, commit, and push my code to Github.
+
+## Deployment
+
+I have deployed my website on Github pages.
+
+## Local Deployment
+
+
+
+
 
 
 
