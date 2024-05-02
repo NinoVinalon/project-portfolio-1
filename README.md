@@ -46,6 +46,27 @@ HTML was used to create the wireframes for this website. The website is made up 
 
 The color scheme for this website is simple. I have chosen gold for the background of the header and footer with black and  white text throughout, with blue buttons.
 
+### Typography
+
+The fonts I have used on this website are simple sans serif and Lugrasimo from Google Fonts throughout its content.
+
+
+## Features
+
+### Search Engine Optimization
+
+Meta tags with descriptions and keywords have been added to each page's head in order to enhance website optimization, ranking, quality, and quantity.
+
+### Homepage
+
+
+##### 1. Homepage on desktop<br>
+![Homepage on desktop](assets/readimages/homapagepc.png)
+
+##### 2. Homepage on mobile
+![Homepage on mobile](assets/readimages/homecp.jpg)
+
+
 
 
 
