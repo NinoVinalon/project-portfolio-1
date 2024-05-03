@@ -203,7 +203,20 @@ In order to simplify site navigation, I have employed aria-labels, alt tags, and
 
 The only bug that I encountered in this program is when the images are not responsive. So what I did was change the height and width values from pixels to percentages.
 
-### Credits
+## Credits
+
+### Content and Images
+
+I want to express my gratitude to the organizers of the Kings of Europe league for allowing me to use their league as the subject of my project. They provide me with the content I require, which includes images, players, teams, and all the photos I used.
+
+### Icons
+
+Favicon and Fontawesome were used to generate the icons.
+
+### Bugs and Errors
+
+I want to express my gratitude to my mentor, Harry Dhillon, for his assistance with the project and Ms. Amy Richardson for her consistent response every time I send her a message about my project. I am grateful to the Tutor Support who assisted me with the errors I encountered while finishing my project.
+
 
 
 
