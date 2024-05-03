@@ -185,15 +185,15 @@ I have deployed my website on Github pages.
 **The website was tested on the following devices:**
 
 - Samsung Galaxy S23 Ultra
--Iphone 13 Pro Max
--Apple Ipod 10th Gen
--Microsoft Surface
--Acer Predator Triton 300
+- Iphone 13 Pro Max
+- Apple Ipod 10th Gen
+- Microsoft Surface
+- Acer Predator Triton 300
 
 **The website was tested on the following browsers:**
 
--Google Chrome
--Safari
+- Google Chrome
+- Safari
 
 ### Accessibility
 
